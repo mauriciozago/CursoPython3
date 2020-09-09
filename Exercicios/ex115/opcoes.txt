@@ -1,0 +1,3 @@
+Ver pessoas cadastradas
+Cadastrar nova Pessoa
+Sair do Sistema
